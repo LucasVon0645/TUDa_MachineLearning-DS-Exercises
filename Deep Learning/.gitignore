@@ -1,0 +1,5 @@
+# Ignore the torch_env directory
+torch_env/
+
+# Ignore the data directory
+data/
